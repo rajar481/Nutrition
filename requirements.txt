@@ -1,9 +1,4 @@
 streamlit
-openai
-pandas
-pdfplumber
-tabulate
-openpyxl
 transformers
 
 
